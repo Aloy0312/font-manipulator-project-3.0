@@ -1,0 +1,17 @@
+.hd {
+    padding: 10px;
+}
+
+.sp {
+    color: black;
+    width: 100% !important;
+}
+
+#ft {
+    background-color: grey;
+    padding: 12px;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    margin: 0;
+}
